@@ -1,1 +1,2 @@
 # Friday Class
+Notes
