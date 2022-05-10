@@ -1,0 +1,11 @@
+Linux commands
+pwd: print working directory, this command is used to determine your location in the file system
+ls: list file, this command lists the contents of your current working directory
+cd: change directory, this command is used to change the current working directory
+
+cd./: this command will do nothing, stay in the same place
+cd../: to switch one up level from the current directory
+cd../../: to move two levels up
+
+How to write code in Sublime and execute it with terminal?
+1.
