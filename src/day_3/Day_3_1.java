@@ -1,6 +1,6 @@
-package Day_3;
+package day_3;
 
-public class day_3_1 {
+public class Day_3_1 {
     public static void main(String[] args) {
         // byte -> short -> int -> long -> float -> double
 

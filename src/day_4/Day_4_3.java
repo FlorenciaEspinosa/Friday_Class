@@ -1,4 +1,4 @@
-package Day_4;
+package day_4;
 
 public class Day_4_3 {
     // Method overloading is when we have multiple methods with same name but different arguments:

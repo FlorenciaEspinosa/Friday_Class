@@ -1,6 +1,6 @@
-package Day_2;
+package day_2;
 
-public class day_2_1 {
+public class Day_2_1 {
     public static void main(String[]args){
         // There are 8 primitives in java:
         // byte, short, int, long - the whole numbers

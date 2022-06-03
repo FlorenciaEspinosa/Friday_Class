@@ -1,6 +1,6 @@
-package Day_2;
+package day_2;
 
-public class day_2_0 {
+public class Day_2_0 {
     //String name;
     /* Comments we use this for information
      *

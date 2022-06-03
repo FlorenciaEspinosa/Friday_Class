@@ -1,7 +1,7 @@
-package Day_3;
+package day_3;
 import util.InputFromUser;
 
-public class day_3_0 {
+public class Day_3_0 {
     // local variables are: created inside methods and statements
     // - they cannot be visible outside of the block where it was created
     // - they don't have default values
